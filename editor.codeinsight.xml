@@ -2,4 +2,18 @@
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAnnotations" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="COLLAPSE_INNER_CLASSES" value="true" />
+    <option name="COLLAPSE_ANNOTATIONS" value="true" />
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseMultilineComments" value="true" />
+    <option name="COLLAPSE_MULTILINE_COMMENTS" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="collapseXmlTags" value="true" />
+    <option name="COLLAPSE_XML_TAGS" value="true" />
+  </component>
 </application>
