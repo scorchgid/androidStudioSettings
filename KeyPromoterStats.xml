@@ -2,9 +2,11 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
+        <entry key="'Alt+Insert'" value="2" />
         <entry key="'Ctrl+Alt+S'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
         <entry key="'Ctrl+F9'" value="1" />
+        <entry key="'Ctrl+T'" value="2" />
       </map>
     </option>
   </component>
