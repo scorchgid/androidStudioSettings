@@ -12,6 +12,9 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="shift multiply" />
   </action>
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
