@@ -1,7 +1,10 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="ece11c9a-42a8-43d2-8cf4-1250627516c6" name="scorchgid">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="scorchgid" />
-    <option name="AUTH_TYPE" value="BASIC" />
     <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
